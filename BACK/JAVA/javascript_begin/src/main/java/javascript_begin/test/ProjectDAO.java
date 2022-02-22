@@ -1,4 +1,5 @@
-package com.javascript_begin.test.DAOS;
+package javascript_begin.test;
+
 
 public class ProjectDAO {
 	
