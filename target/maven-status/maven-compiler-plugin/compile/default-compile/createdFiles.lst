@@ -1,4 +1,5 @@
-com\javascript_begin\test\DAOS\ProjectDAO.class
-com\javascript_begin\test\repositories\ProjectRepository.class
-com\javascript_begin\test\JavascriptBeginApplication.class
-com\javascript_begin\test\entities\ProjectEntity.class
+javascript_begin\test\ProjectsService.class
+javascript_begin\test\ProjectRepository.class
+javascript_begin\test\ProjectDAO.class
+javascript_begin\test\ProjectEntity.class
+javascript_begin\test\JavascriptBeginApplication.class
